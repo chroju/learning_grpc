@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package file;
+package filedl;
 
 message FileRequest {
     string name = 1;
